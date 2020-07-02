@@ -8,7 +8,7 @@ __pycache__/
 
 # Dataset
 chest_xray
-
+models
 
 # Distribution / packaging
 .Python
